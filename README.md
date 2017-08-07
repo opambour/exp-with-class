@@ -17,5 +17,11 @@ Building Node express server in a class way...
 
     > Note: .env is required to run the server
 
-# Extending server.js (Server) class
+## Install dependencies
+Next, you need to install node modules in your package.json.
+
+    > npm install
+
+
+## Extending server.js (Server) class
 
