@@ -16,8 +16,6 @@ Building Node express server in a class way...
     SESSION_NAME = mySecretSessionId
 
     > Note: .env is required to run the server
-<<<<<<< HEAD
 
-# Extend server.js (Server) class
-=======
->>>>>>> 7e79e67d110e21f9f0c8aa9d1e3cf84348fd1c34
+# Extending server.js (Server) class
+
