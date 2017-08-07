@@ -3,7 +3,8 @@
 Building Node express server in a class way...
 
 ## Required Files:
-### Create .env file in the root of your project and add these:
+1. .env
+#### Create .env file in the root of your project and add these:
 NODE_ENV = development
 
 PORT = 3000
