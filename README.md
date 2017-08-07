@@ -2,11 +2,19 @@
 
 Building Node express server in a class way...
 
-## Create .env file in the root of your project and add these:
-NODE_ENV = development
-PORT = 3000
-DATABASE = mongodb://localhost:27017/localdb
-SECRET_KEY_ONE = YANG=731!SOWN=329![1314]!NelsonAVe$Bronx<NY></NY>
-SESSION_NAME = mySecretSessionId
+## Required Files:
+1. .env
+    #### Create .env file in the root of your project and add these:
+    NODE_ENV = development
+    
+    PORT = 3000
+    
+    DATABASE = mongodb://localhost:27017/localdb
+    
+    SECRET_KEY_ONE = YANG=731!SOWN=329![1314]!NelsonAVe$Bronx<NY></NY>
+    
+    SESSION_NAME = mySecretSessionId
 
-Note: .env is required to run the server
+    > Note: .env is required to run the server
+
+# Extend server.js (Server) class
