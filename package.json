@@ -1,0 +1,33 @@
+{
+    "name": "express_server_with_class",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js",
+        "server": "nodemon server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/opambour/exp-with-class.git"
+    },
+    "author": {
+        "name": "Michael Abebrese-Agyeman",
+        "email": "opambour@hotmail.com"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.17.2",
+        "compression": "^1.7.0",
+        "cookie-parser": "^1.4.3",
+        "cors": "^2.8.4",
+        "dotenv": "^4.0.0",
+        "express": "^4.15.3",
+        "express-session": "^1.15.5",
+        "helmet": "^3.8.1",
+        "method-override": "^2.3.9",
+        "mongoose": "^4.11.5",
+        "morgan": "^1.8.2"
+    }
+}
